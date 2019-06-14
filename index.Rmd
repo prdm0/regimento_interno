@@ -2,7 +2,7 @@
 knit: "bookdown::render_book"
 title: "REGIMENTO INTERNO DO RESIDENCIAL KADOSHI"
 subtitle: "Normas do Regimento Interno"
-author: "**Síndico(a)**: Emanuelle W. A. de Farias <br/> **E-mail**: <emanuelle.w@hotmail.com> </br></br></br> **Site desenvolvido por**: Pedro Rafael. D. Marinho"
+author: "**Síndico(a)**: Emanuelle W. A. de Farias <br/> **E-mail**: <emanuelle.w@hotmail.com> </br></br> **Site desenvolvido por**: [**Pedro Rafael. D. Marinho**](https://github.com/prdm0)."
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
