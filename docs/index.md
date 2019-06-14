@@ -150,13 +150,13 @@ As taxas de condomínio serão geradas e enviadas pelo síndico e/ou administrad
 
 É de responsabilidade do condômino se certificar e manter o portão utilizado da garagem fechado após saírem ou entrarem com seu(s) veículo(s). Dessa forma, caberá ao condômino aguardar o fechamento completo da garagem, para que assim possam se distanciar do local. 
 
-> Parágrafo Único. É de inteira responsabilidade do proprietário das unidades com portões de garagem privados o seu compromisso com a segurança do condomínio, atendendo assim as exigências dos artigos 6 (artigo seis) e 7 (artigo sete) apresentados acima.
+> **Parágrafo Único**. É de inteira responsabilidade do proprietário das unidades com portões de garagem privados o seu compromisso com a segurança do condomínio, atendendo assim as exigências dos artigos 6 (artigo seis) e 7 (artigo sete) apresentados acima.
 
 ### Art. 8 {-}
 
 Os condôminos não deverão abrir o portão de pedestre, portão ao lado do portão de acesso principal de veículos, utilizando o interfone no interior de sua(s) unidade(s). 
 
-> Parágrafo Único. Não moradores incluem visitas (parentes ou não), entregadores de água, gás, comidas, etc. O morador deverá conduzir o visitante ou o entregador, na entrada e na saída, essa medida evita que o portão não seja fechado devidamente pelo visitante ou entregador. Equívocos na hora de fechar o portão poderá vir a ser a porta de entrada de pessoas mal-intencionadas.
+> **Parágrafo Único**. Não moradores incluem visitas (parentes ou não), entregadores de água, gás, comidas, etc. O morador deverá conduzir o visitante ou o entregador, na entrada e na saída, essa medida evita que o portão não seja fechado devidamente pelo visitante ou entregador. Equívocos na hora de fechar o portão poderá vir a ser a porta de entrada de pessoas mal-intencionadas.
 
 ### Art. 9 {-}
 
