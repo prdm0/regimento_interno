@@ -1,0 +1,1 @@
+# Regimento Interno de Condomínio
