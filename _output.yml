@@ -1,0 +1,23 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: none
+    edit: 
+      link: https://github.com/prdm0/regimento_interno/edit/master/%s
+      text: "Editar"
+    sharing:
+      facebook: yes
+      twitter: yes
+      github: yes
+      google: no
+      linkedin: no
+      weibo: no
+      instapaper: no
+      vk: no
+      all: no
+    toolbar:
+      position: fixed
+      download: no
+      search: yes
+    
