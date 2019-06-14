@@ -3,13 +3,10 @@ bookdown::gitbook:
   config:
     toc:
       collapse: none
-    edit: 
-      link: https://github.com/prdm0/regimento_interno/edit/master/%s
-      text: "Editar"
     sharing:
-      facebook: yes
-      twitter: yes
-      github: yes
+      facebook: no
+      twitter: no
+      github: no
       google: no
       linkedin: no
       weibo: no
