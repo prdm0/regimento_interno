@@ -1,7 +1,7 @@
 --- 
 knit: "bookdown::render_book"
 title: "REGIMENTO INTERNO DO RESIDENCIAL KADOSHI"
-subtitle: "O corpo administrativo do Residencial Kadoshi atualmente é formato por:"
+subtitle: "Normas do Regimento Interno"
 author: "**Síndico(a)**: Emanuelle W. A. de Farias <br/> **E-mail**: <emanuelle.w@hotmail.com> </br></br></br> **Site desenvolvido por**: Pedro Rafael. D. Marinho"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
