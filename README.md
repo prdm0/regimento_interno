@@ -1,1 +1,1 @@
-# Regimento Interno de Condomínio
+# Modelo de Regimento Interno de Condomínio
