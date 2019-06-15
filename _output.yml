@@ -15,6 +15,6 @@ bookdown::gitbook:
       all: no
     toolbar:
       position: fixed
-      download: no
+      download: yes
       search: yes
     
