@@ -15,6 +15,6 @@ bookdown::gitbook:
       all: no
     toolbar:
       position: fixed
-      download: ["pdf"]
+      download: ["https://github.com/prdm0/regimento_interno/raw/master/docs/_aula.pdf"]
       search: yes
     
