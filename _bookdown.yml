@@ -1,5 +1,4 @@
 output_dir: "docs"
-book_filename: "_main"
 new_session: yes
 delete_merged_file: yes
 language:
