@@ -15,6 +15,6 @@ bookdown::gitbook:
       all: no
     toolbar:
       position: fixed
-      download: ["pdf"]
+      download: ["_aula.pdf"]
       search: yes
     
