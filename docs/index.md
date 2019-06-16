@@ -18,7 +18,7 @@ description: "Regimento Interno"
 
 # Prefácio {-}
 
-**Última atualização do site**: 15/06/2019 <br/>
+**Última atualização do site**: 16/06/2019 <br/>
 
 
 ---
