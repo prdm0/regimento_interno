@@ -7,7 +7,7 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 always_allow_html: yes
-url: 'https://prdm0.github.io/regimento_interno/'
+url: 'https://github.com/prdm0/regimento_interno/raw/master/docs/'
 github-repo: prdm0/aulas_computacional
 link-citations: yes
 colorlinks: yes
