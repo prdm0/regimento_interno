@@ -1,5 +1,5 @@
 output_dir: "docs"
-book_filename: "escritura"
+book_filename: "ata"
 new_session: yes
 delete_merged_file: yes
 language:
