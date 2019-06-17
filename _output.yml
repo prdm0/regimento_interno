@@ -15,6 +15,7 @@ bookdown::gitbook:
       all: no
     toolbar:
       position: fixed
-      download: [["escritura.pdf", "PDF"], ["escritura.epub", "EPUB"]]
+      download: 
+        - ["ata", "PDF"]
       search: yes
     
