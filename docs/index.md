@@ -64,10 +64,9 @@ A administração do **Residencial Kadoshi** é composta por:
 
 > Fábio A. Vanderlei, Apto. 402
 
-> Thyago M. T. de Farias, Apto. 405 
-
 > Glória M. O. Costa, Apto. 401
 
+> Thyago M. T. de Farias, Apto. 405 
 
 # **Regras Adotadas** {-}
 
@@ -415,8 +414,6 @@ Caberá ao síndico ou a quem o tiver substituindo receber todas as reclamaçõe
 ### Art. 38 {-} 
 
 Brigas, indisposições e atritos entre condôminos, desde que estas não venham faltar com alguma das regras desse Regimento Interno, deverão ser resolvidas entre os condôminos envolvidos. Não caberá aos (síndicos e membros de conselhos) promover a conciliação e/ou resolução de problemas que fogem do contexto do presente regimento bem como de resoluções complementares.
-
-
 
 ### Art. 39 {-}
 
