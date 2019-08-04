@@ -18,7 +18,7 @@ description: "Regimento Interno"
 
 # Prefácio {-}
 
-**Última atualização do site**: 01/08/2019 <br/>
+**Última atualização do site**: 04/08/2019 <br/>
 
 
 ---
@@ -56,7 +56,7 @@ A administração do **Residencial Kadoshi** é composta por:
 
 ### Síndico(a) e subsíndico {-}
 
-> **Síndico(a)**: Emanuelle W. A. de Farias, Apto. 401
+> **Síndico(a)**: Emanuelle W. A. de Farias, Apto. 101
 
 > **Subsíndico**: Hugo H. L. de Araujo, Apto. 404
 
