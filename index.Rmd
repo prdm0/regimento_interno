@@ -23,6 +23,7 @@ description: "Regimento Interno"
    paste(vec_date[3], vec_date[2], vec_date[1], sep="/")
 }; data()` <br/>
 
+**Valor atual da taxa de condomínio**: **R\$ 330,00**
 
 ---
 
@@ -125,6 +126,8 @@ A(s) multa(s) será(ão) encaminhada(s) para protesto após 30 (trinta) dias do 
   + § 2º Se por ventura o condômino resgatar o título encaminhado para cartório antes do mesmo ser protestado, os juros e correções serão cobrados na taxa de condomínio do mês subsequente. 
 
 ## **Taxa de Condomínio** {-}
+
+**Atualmente**, o valor da taxa de condomínio é **R\$ 330,00**.
 
 ### Art. 5 {-}
 
@@ -258,19 +261,39 @@ Apenas será permitido o uso da piscina por visitante(s) desde que este(s) estej
 
 ### Art. 17 {-}
 
-Os itens abaixo informam das obrigações dos condôminos a respeito do descarte dos lixos produzidos por suas unidades: 
+Os condôminos poderão depositar o lixo na "casa do lixo" e/ou coletor a qualquer dia e horário. Porém, o descarte deverá seguir regras de higiene para que os lixos descartados não venham estar produzindo odores desagradáveis e incomodando à todos que frequentam o condomínio. Os itens abaixo informam das obrigações dos condôminos a respeito do descarte apropriado dos lixos produzidos por suas unidades: 
 
-  a) É proibido a colocação de lixos na porta dos apartamentos, corredores ou qualquer área comum do condomínio;
+  a) Lixos orgânicos devem ser devidamente embalados em diversas sacolas para que não venham escorrer chorume; 
   
-  b) É veementemente proibido utilizar o elevador como meio para transportar lixos de qualquer natureza;
+  b) Os condôminos com crianças pequenas devem embalar devidamente as fraldas descartadas para que não venham exalar mau cheiro; 
   
-  c) Os condôminos deverão se certificarem que ao descartar os lixos no(s) coletor(es), estes não irão sujar os corredores e demais áreas comuns do condomínio;
+  c) Garrafas e embalagens devem ser lavadas antes de serem descartadas, permitindo assim que o lixo possa aguardar o dia da coleta; 
   
-  d) É de obrigação do condômino conhecer os dias da coleta de lixo realizada pelo município;
+  d) É proibido a colocação de lixos na porta dos apartamentos, corredores ou qualquer área comum do condomínio; 
   
-  e) Nos dias de coleta, quando o zelador não mais se encontrar nas dependências do condomínio, os lixos não poderão ser depositados nos coletores. Nesses dias, e na ausência do zelador, os lixos deverão ser depositados no lado de fora do condomínio, na parede junto aos medidores de energia, sem atrapalhar a entrada de moradores a pé ou em seus veículos. Os condôminos deverão também atentar-se para que os lixos não venham obstruir ou dificultar a entrada de moradores pelos portões particulares;
+  e) É veementemente proibido utilizar o elevador como meio para transportar lixos de qualquer natureza; 
   
-  f) Se por qualquer eventualidade, ao transportar lixo para a área descarte, ocorra vazamento dos sacos, vindo assim a sujar a área comum, fica responsável pela **limpeza imediata** o apartamento que manuseou o lixo.
+  f) os condôminos deverão se certificarem que ao descartar os lixos no(s) coletor(es)e/ou casa do lixo, estes não irão sujar os corredores e demais áreas comuns do condomínio; 
+  
+  g) Se por qualquer eventualidade, ao transportar lixo para a área de lazer (casa do lixo e/ou coletor(es)), ocorra vazamento dos sacos, vindo assim a sujar a área comum, fica responsável pela limpeza imediatas o condômino do apartamento que manuseou o lixo; 
+  
+  h) Grandes volumes de lixos, a exemplo daqueles produzidos por motivo de mudança devem ser fracionados em mais de um dia de coleta para que este não venham ocupar um volume próximo a totalidade do lixo suportado pelo(s) coletor(es) e/ou casa do lixo, impedindo assim que outros condôminos venham poder realizar seus respectivos descartes; 
+  
+  i) Sob hipótese alguma lixos poderão ser descartados fora do(s) coletor(es) e/ou casa do lixo.
+
+<!-- Os itens abaixo informam das obrigações dos condôminos a respeito do descarte dos lixos produzidos por suas unidades:  -->
+
+<!--   a) É proibido a colocação de lixos na porta dos apartamentos, corredores ou qualquer área comum do condomínio; -->
+
+<!--   b) É veementemente proibido utilizar o elevador como meio para transportar lixos de qualquer natureza; -->
+
+<!--   c) Os condôminos deverão se certificarem que ao descartar os lixos no(s) coletor(es), estes não irão sujar os corredores e demais áreas comuns do condomínio; -->
+
+<!--   d) É de obrigação do condômino conhecer os dias da coleta de lixo realizada pelo município; -->
+
+<!--   e) Nos dias de coleta, quando o zelador não mais se encontrar nas dependências do condomínio, os lixos não poderão ser depositados nos coletores. Nesses dias, e na ausência do zelador, os lixos deverão ser depositados no lado de fora do condomínio, na parede junto aos medidores de energia, sem atrapalhar a entrada de moradores a pé ou em seus veículos. Os condôminos deverão também atentar-se para que os lixos não venham obstruir ou dificultar a entrada de moradores pelos portões particulares; -->
+
+<!--   f) Se por qualquer eventualidade, ao transportar lixo para a área descarte, ocorra vazamento dos sacos, vindo assim a sujar a área comum, fica responsável pela **limpeza imediata** o apartamento que manuseou o lixo. -->
 
 ## **Garagens** {-}
 
@@ -354,7 +377,7 @@ O(s) condômino(s) que vier a danificar a área comum do condomínio deverá(ão
 
 ### Art. 29 {-}
 
-Reformas/instalações em apartamentos bem como serviços de instalação de antenas/equipamentos deverão ser comunicadas ao síndico, subsíndico e/ou membros do conselho e caso não comprometam a fachada e/ou estrutura do prédio poderão ser realizadas de segunda à sexta das 08h:00 às 17h:00 e no sábado das 08h:00 às 12h:00. Além disso, tem-se como obrigações:
+Reformas/instalações em apartamentos bem como serviços de instalação de antenas/equipamentos deverão ser comunicadas ao síndico, subsíndico e/ou membros do conselho e caso não comprometam a fachada e/ou estrutura do prédio poderão ser realizadas de segunda à sexta das 08h:00 às 17h:00 e no sábado das 08h:00 às 16h:00. Além disso, tem-se como obrigações:
 
    + § 1º Enquadra-se nesse artigo os serviços de montagem e instalação de móveis, telas ou qualquer outro serviço que faça uso de ferramentas que exerçam barulhos como furadeiras, martelos, marteletes, serrotes, etc;
    
