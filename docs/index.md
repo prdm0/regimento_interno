@@ -370,7 +370,7 @@ O(s) condômino(s) que vier a danificar a área comum do condomínio deverá(ão
 
 ### Art. 29 {-}
 
-Reformas/instalações em apartamentos bem como serviços de instalação de antenas/equipamentos deverão ser comunicadas ao síndico, subsíndico e/ou membros do conselho e caso não comprometam a fachada e/ou estrutura do prédio poderão ser realizadas de segunda à sexta das 08h:00 às 17h:00 e no sábado das 08h:00 às 16h:00. Além disso, tem-se como obrigações:
+Reformas/instalações em apartamentos bem como serviços de instalação de antenas/equipamentos deverão ser comunicadas ao síndico, subsíndico e/ou membros do conselho e caso não comprometam a fachada e/ou estrutura do prédio poderão ser realizadas de segunda à sexta das 08h:00 às 17h:00 e no sábado das 08h:00 às 16h:00, não podendo ser realizadas em feriados. Além disso, tem-se como obrigações:
 
    + § 1º Enquadra-se nesse artigo os serviços de montagem e instalação de móveis, telas ou qualquer outro serviço que faça uso de ferramentas que exerçam barulhos como furadeiras, martelos, marteletes, serrotes, etc;
    
