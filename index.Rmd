@@ -452,3 +452,39 @@ Brigas, indisposições e atritos entre condôminos, desde que estas não venham
    + § 1º O zelador **poderá** vir a realizar o recebimento de encomendas, caso estas sejam entregues no período do seu expediente;
    
    + § 2º Síndico, subsíndico e membros de conselhos jamais terão como obrigação receber encomendas sob o pretexto de suas respectivas funções.   
+   
+# Contatos de prestadores de serviços {-}
+
+Prezados condôminos, abaixo segue alguns contatos de prestadores de serviços que podem vir a ser úteis para vocês. Vocês poderão pesquisar usando palavras chaves de forma a facilitar a busca. 
+
+**Observação**: Não usem acentuações na pesquisa.
+
+
+```{r, echo=FALSE}
+library(magrittr)
+library(tibble)
+library(DT)
+
+dados <-
+  read.csv(
+    file = "banco_dados_contatos_condominio.csv", sep = ",") %>% 
+  as_tibble()
+
+dados <- DT::datatable(dados, filter = "top",
+                       options = list(
+      dom = "Bfrtlip",
+      search = list(caseInsensitive = FALSE),
+      buttons =
+        list(list(extend = "copy", text = "Copiar"), list(extend = "print", text = "Imprimir"), list(
+          extend = "collection",
+          buttons = c("csv", "excel", "pdf"),
+          text = "Baixar"
+        )),
+      pageLength = 25L,
+      language = list(url = "//cdn.datatables.net/plug-ins/1.10.21/i18n/Portuguese-Brasil.json"),
+      lengthMenu = list(c(25, 50, 100, -1), c("25", "50", "100", "Todos")),
+      fixedHeader = TRUE
+    ))
+dados
+```
+
