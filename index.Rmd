@@ -499,7 +499,7 @@ Em caso de calamidade pública, pandemia e epidemia decretados e/ou reconhecidos
 
 -   § 2º Todas as regras sanitárias encaminhadas para os e-mails dos proprietários serão automaticamente inclusas como regras temporárias do presente RI e deverão ser cumpridas, valendo assim todas as penalidades previstas no regimento;
 
--   § 3º As regras tornarão válidas como parte integrante desse RI a partir da data de envio do e-mail com informações referente ao plano sanitário e das medidas/regras a serem adotadas;
+-   § 3º As regras tornarão válidas como parte integrante desse RI a partir da data de envio do e-mail com informações referentes ao plano sanitário e das medidas/regras a serem adotadas;
 
 -   § 4º As medidas terão uma data de validade que será informada no e-mail de notificação do plano.
 
