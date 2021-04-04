@@ -1,11 +1,10 @@
 output_dir: "docs"
-book_filename: "ata"
-new_session: yes
-delete_merged_file: yes
+book_filename: "regimento-interno"
+repo: https://github.com/prdm0/regimento_interno
+delete_merged_file: true
 language:
   label:
     fig: "Figura "
-
 rmd_files: [
   "index.Rmd",
 ]
