@@ -3,8 +3,8 @@ bookdown::gitbook:
   css: style.css
   config:
     sharing:
-      github: no
-      facebook: no
-      twitter: no
+      github: yes
+      facebook: yes
+      twitter: yes
       whatsapp: yes
       all: null
