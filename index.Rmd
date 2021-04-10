@@ -2,7 +2,7 @@
 knit: "bookdown::render_book"
 title: "REGIMENTO INTERNO DO RESIDENCIAL KADOSHI"
 subtitle: "Normas do Regimento Interno"
-author: "**Síndico(a)**: Emanuelle W. A. de Farias <br/> **E-mail**: <emanuelle.w@hotmail.com> </br></br> **Website desenvolvido por**: [**Pedro Rafael D. Marinho**](https://github.com/prdm0)."
+author: "**Síndico(a)**: Amanda Lira de Araujo Brito <br/> **E-mail**: <llira.amanda@gmail.com> </br></br> **Website desenvolvido por**: [Pedro Rafael D. Marinho](https://github.com/prdm0)."
 url: "https://github.com/prdm0/regimento_interno/"
 site: bookdown::bookdown_site
 graphics: yes
@@ -24,7 +24,7 @@ description: "Regimento Interno"
    paste(vec_date[3], vec_date[2], vec_date[1], sep="/")
 }; data()` <br/>
 
-**Valor atual da taxa de condomínio**: **R\$ 330,00**
+**Valor atual da taxa de condomínio**: **R\$ 360,00**
 
 ---
 
@@ -58,15 +58,15 @@ As primeiras regras aqui descritas foram inicialmente aprovadas no dia 27 (vinte
 </div>
 ```
 
-# Regras provisórias diante da pandemia {-}
+<!-- # Regras provisórias diante da pandemia {-} -->
 
-Por conta da pandemia, o uso de máscara é obrigatório, segundo o que foi decidido na Reunião de Condomínio do dia 11/03/2020, que iniciou-se às 20h00. Além disso, decidiu-se também que fica proibido o uso da piscina e churrasqueira, **por tempo indeterminado**. Por fim, também implicará em infração o condômino que deixar os seus causados na porta de suas unidades.
+<!-- Por conta da pandemia, segundo o que foi decidido na Reunião de Condomínio do dia 11/03/2020, que iniciou-se às 20h00, decidiu-se que fica proibido o uso da piscina e churrasqueira, **por tempo indeterminado**. Por fim, também implicará em infração o condômino que deixar os seus causados na porta de suas unidades. -->
 
-**Observação**: A área de lazer poderá ser utilizada para fins de prática de exercício com um profissional de educação física habilitado.
+<!-- **Observação**: A área de lazer poderá ser utilizada para fins de prática de exercício com um profissional de educação física habilitado. -->
 
-No que se refere ao uso de máscara ou da área de lazer (piscina e churrasqueira), o condômino que for flagrado descumprindo essas medidas de segurança será advertido em primeiro momento e a partir da segunda advertência será cobrado uma multa de 100% do valor da taxa condominial.
+<!-- No que se refere ao uso de máscara ou da área de lazer (piscina e churrasqueira), o condômino que for flagrado descumprindo essas medidas de segurança será advertido em primeiro momento e a partir da segunda advertência será cobrado uma multa de 100% do valor da taxa condominial. -->
 
-**Essas medidas só deixarão de existir quando forem revogadas em uma futura reunião. Não foi estabelecido dada para término.**
+<!-- **Essas medidas só deixarão de existir quando forem revogadas em uma futura reunião. Não foi estabelecido dada para término.** -->
 
 # Administração do Condomínio {-}
 
@@ -75,13 +75,17 @@ A administração do **Residencial Kadoshi** é composta por:
 
 ### Síndico(a) e subsíndico {-}
 
-> **Síndico(a)**: Emanuelle W. A. de Farias, Apto. 101
+> **Síndico(a)**: Amanda Lira de Araujo Brito, Apto. 304
 
 > **Subsíndico**: Não há
 
 ### Conselho administrativo {-}
 
-A definir em uma próxima reunião
+> Bruna Leite Diaz, Apto. 205
+
+> Nathalia Cavalcanti Ribeiro de Farias, Apto. 402
+
+> Robson Pereira de Araujo, Apto. 303
 
 # **Regras Adotadas** {-}
 
@@ -464,45 +468,45 @@ Brigas, indisposições e atritos entre condôminos, desde que estas não venham
 
 Em caso de imóvel alugado ou cedido, é de responsabilidade do proprietário do imovel arcar com todas as possíveis penalidades proveniente do desrespeitos de qualquer regra desse RI. O condomínio não possui e não possuirá nenhuma responsabilidade contratual em caso de imóvel alugado ou cedido. Além disso, caberá ao proprietário do imovel informar sobre todas as regras desse RI antes mesmo que o inquilino entre nas dependências do condomínio.
 
-## **Saúde Coletiva** {.unnumbered}
+<!-- ## **Saúde Coletiva** {.unnumbered} -->
 
-Diante do que vivemos na pandemia pela COVID-19, tornou-se necessário criar essa nova seção referente à assuntos de saúde coletiva em nosso Regimento Interno - RI. Nessa seção, são estabelecidas novas regras referentes à responsabilidade comunitária que deverão ser cumpridas, assim como todas as demais regras desse RI. 
+<!-- Diante do que vivemos na pandemia pela COVID-19, tornou-se necessário criar essa nova seção referente à assuntos de saúde coletiva em nosso Regimento Interno - RI. Nessa seção, são estabelecidas novas regras referentes à responsabilidade comunitária que deverão ser cumpridas, assim como todas as demais regras desse RI.  -->
 
-### Art. 41 {.unnumbered}
+<!-- ### Art. 41 {.unnumbered} -->
 
-O condômino portador de alguma doença infecciosa diagnosticada que venha eventualmente por em risco a saúde coletiva de um ou mais moradores de outras unidades ou de funcionários do condomínio terá a obrigação de informar ao síndico, de forma que o condomínio possa estabelecer planos e regras sanitárias de controle, visando a diminuição da probabilidade de risco de infecções de outros moradores, funcionários e prestadores de serviços. Além disso:
+<!-- O condômino portador de alguma doença infecciosa diagnosticada que venha eventualmente por em risco a saúde coletiva de um ou mais moradores de outras unidades ou de funcionários do condomínio terá a obrigação de informar ao síndico, de forma que o condomínio possa estabelecer planos e regras sanitárias de controle, visando a diminuição da probabilidade de risco de infecções de outros moradores, funcionários e prestadores de serviços. Além disso: -->
 
--   § 1º O condômino deverá informar por e-mail e/ou por meio de uma carta assinada sobre a infecção, seus riscos e se possível, deverá fornecer sugestões de prevensões a serem adotadas pelo condomínio;
+<!-- -   § 1º O condômino deverá informar por e-mail e/ou por meio de uma carta assinada sobre a infecção, seus riscos e se possível, deverá fornecer sugestões de prevensões a serem adotadas pelo condomínio; -->
 
--   § 2º A doença infecciosa deverá ser comprovada por meio de um diagnóstico médico e exames. Isso se faz necessário, uma vez que em um alarme falso, o condomínio poderá ter que assumir gastos desnecessários com o plano de prenvenção;
+<!-- -   § 2º A doença infecciosa deverá ser comprovada por meio de um diagnóstico médico e exames. Isso se faz necessário, uma vez que em um alarme falso, o condomínio poderá ter que assumir gastos desnecessários com o plano de prenvenção; -->
 
--   § 3º O condômino deverá informar no e-mail e/ou carta assinada se deseja ou não ser identificado;
+<!-- -   § 3º O condômino deverá informar no e-mail e/ou carta assinada se deseja ou não ser identificado; -->
 
--   § 4º Na situação em que o condômino não queira ser identificado e caso a infecção que ponha em risco a saúde coletiva dos demais condôminos de outras unidades e/ou funcionários do condomínio seja devidamente noticada, conforme estabelece § 2º desse Art., caberá ao condomínio estabelecer regras que deverão ser obedecidas sem maiores questionamentos, visando manter o sigilo e discrição, caso eventualmente o sigilo venha ser requerido conforme o § 3º desse artigo.
+<!-- -   § 4º Na situação em que o condômino não queira ser identificado e caso a infecção que ponha em risco a saúde coletiva dos demais condôminos de outras unidades e/ou funcionários do condomínio seja devidamente noticada, conforme estabelece § 2º desse Art., caberá ao condomínio estabelecer regras que deverão ser obedecidas sem maiores questionamentos, visando manter o sigilo e discrição, caso eventualmente o sigilo venha ser requerido conforme o § 3º desse artigo. -->
 
-### Art. 42 {.unnumbered}
+<!-- ### Art. 42 {.unnumbered} -->
 
-Todo o plano com as regras sanitárias a serem adotadas pelo condomínio deverá ser encaminhado para os e-mails de todos os proprietados das unidades autômomas do residencial, e-mail estes que são cadastrados para o encaminhamento das taxas de condomínio. Além disso:
+<!-- Todo o plano com as regras sanitárias a serem adotadas pelo condomínio deverá ser encaminhado para os e-mails de todos os proprietados das unidades autômomas do residencial, e-mail estes que são cadastrados para o encaminhamento das taxas de condomínio. Além disso: -->
 
--   § 1º Conforme estabelecido no § 8º do Art. 5 desse RI, é de responsabilidade do proprietário do imóvel manter o síndico, bem como o escritório de contabilidade atualizados com informações recentes de contato de e-mail. O eventual descumprimento de medidas sanitárias adotadas pelo condomínio com a alegação de que o contato de e-mail encontra-se desatualizado não exime o condômino infrator da responsabilidade e das penalidades previstas neste RI;
+<!-- -   § 1º Conforme estabelecido no § 8º do Art. 5 desse RI, é de responsabilidade do proprietário do imóvel manter o síndico, bem como o escritório de contabilidade atualizados com informações recentes de contato de e-mail. O eventual descumprimento de medidas sanitárias adotadas pelo condomínio com a alegação de que o contato de e-mail encontra-se desatualizado não exime o condômino infrator da responsabilidade e das penalidades previstas neste RI; -->
 
--   § 2º Todas as regras sanitárias encaminhadas para os e-mails dos proprietários e que levam como base o Art. 40 e Art. 41 desse RI serão automaticamente inclusas como regras temporárias do presente RI e deverão ser cumpridas, valendo assim todas as penalidades previstas no regimento;
+<!-- -   § 2º Todas as regras sanitárias encaminhadas para os e-mails dos proprietários e que levam como base o Art. 40 e Art. 41 desse RI serão automaticamente inclusas como regras temporárias do presente RI e deverão ser cumpridas, valendo assim todas as penalidades previstas no regimento; -->
 
--   § 3º As regras tornarão válidas como parte integrante desse RI a partir da data de envio do e-mail com informações referentes ao plano sanitário e das medidas/regras a serem adotadas;
+<!-- -   § 3º As regras tornarão válidas como parte integrante desse RI a partir da data de envio do e-mail com informações referentes ao plano sanitário e das medidas/regras a serem adotadas; -->
 
--   § 4º As medidas terão uma data de validade que será informada no e-mail de notificação do plano.
+<!-- -   § 4º As medidas terão uma data de validade que será informada no e-mail de notificação do plano. -->
 
-### Art. 43 {.unnumbered}
+<!-- ### Art. 43 {.unnumbered} -->
 
-Em caso de calamidade pública, pandemia e epidemia decretados e/ou reconhecidos pelo Governo Estadual e/ou Governo Municipal, regras de controle e prevenção poderão ser adotadas pelo condomínio e serão enviadas por e-mail aos proprietários das respectivas unidades autônomas. Tais regras serão automaticamente incorporadas à este RI e seus descumprimentos acarretarão nas penalidades prevista nesse RI. Além disso:
+<!-- Em caso de calamidade pública, pandemia e epidemia decretados e/ou reconhecidos pelo Governo Estadual e/ou Governo Municipal, regras de controle e prevenção poderão ser adotadas pelo condomínio e serão enviadas por e-mail aos proprietários das respectivas unidades autônomas. Tais regras serão automaticamente incorporadas à este RI e seus descumprimentos acarretarão nas penalidades prevista nesse RI. Além disso: -->
 
--   § 1º Conforme estabelecido no § 8º do Art. 5 desse RI, é de responsabilidade do proprietário do imóvel manter o síndico, bem como o escritório de contabilidade atualizados com informações recentes de contato de e-mail. O eventual descumprimento de medidas sanitárias adotadas pelo condomínio com a alegação de que o contato de e-mail encontra-se desatualizado não exime o condômino infrator da responsabilidade e das penalidades previstas no neste RI;
+<!-- -   § 1º Conforme estabelecido no § 8º do Art. 5 desse RI, é de responsabilidade do proprietário do imóvel manter o síndico, bem como o escritório de contabilidade atualizados com informações recentes de contato de e-mail. O eventual descumprimento de medidas sanitárias adotadas pelo condomínio com a alegação de que o contato de e-mail encontra-se desatualizado não exime o condômino infrator da responsabilidade e das penalidades previstas no neste RI; -->
 
--   § 2º Todas as regras sanitárias encaminhadas para os e-mails dos proprietários serão automaticamente inclusas como regras temporárias do presente RI e deverão ser cumpridas, valendo assim todas as penalidades previstas no regimento;
+<!-- -   § 2º Todas as regras sanitárias encaminhadas para os e-mails dos proprietários serão automaticamente inclusas como regras temporárias do presente RI e deverão ser cumpridas, valendo assim todas as penalidades previstas no regimento; -->
 
--   § 3º As regras tornarão válidas como parte integrante desse RI a partir da data de envio do e-mail com informações referentes ao plano sanitário e das medidas/regras a serem adotadas;
+<!-- -   § 3º As regras tornarão válidas como parte integrante desse RI a partir da data de envio do e-mail com informações referentes ao plano sanitário e das medidas/regras a serem adotadas; -->
 
--   § 4º As medidas terão uma data de validade que será informada no e-mail de notificação do plano.
+<!-- -   § 4º As medidas terão uma data de validade que será informada no e-mail de notificação do plano. -->
 
 
 # **Contatos de prestadores de serviços** {-}

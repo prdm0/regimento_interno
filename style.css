@@ -17,19 +17,9 @@ p {
   text-align: justify;
 }
 
-.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active > a {
-    color: #000000;
-    background: 0 0;
-    text-decoration: none;
-    background-color: #FFAF24;
-}
+.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active > a { color: #000000; background: 0 0; text-decoration: none; background-color: #FFAF24; }
 
-.book .book-summary ul.summary li a:hover {
-
-    background-color: #aaaaaa;
-    color: #000000;
-
-}
+.book .book-summary ul.summary li a:hover { background-color: #aaaaaa; color: #000000; }
 
 p.caption {
   color: #777;
