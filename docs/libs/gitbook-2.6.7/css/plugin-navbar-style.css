@@ -6,3 +6,16 @@
                        min-width: 300px; } .book.with-summary .book-body { transform: none;
                        left: calc(100% - 60px);  min-width: 300px; } .book
                        .book-body.fixed { top: 0;  } }
+@media (min-width: 600px) {
+  .book.with-summary .book-header.fixed {
+    left: 300px;
+  }
+}
+@media (max-width: 1240px) {
+  .book .book-body.fixed {
+    top: 50px;
+  }
+  .book .book-body.fixed .body-inner {
+    top: auto;
+  }
+}
