@@ -87,7 +87,7 @@ A administração do **Residencial Kadoshi** é composta por:
 
 > Robson Pereira de Araujo, Apto. 303
 
-# **Regras Adotadas** {-}
+# Regras Adotadas {-}
 
 As regras adotadas estão dispostas em artigos que foram lidos e acatados em reunião de condomínio. Tais já estão escritas considerando as modificações sugeridas e também acatadas durante a(s) reunião(ões).
 
@@ -102,7 +102,7 @@ Os artigos estão divididos por temas, o que facilitará a busca por informaçõ
  + Área de Lazer
  + Lixo
 
-## **Disposições Gerais** {-}
+## Disposições Gerais {-}
 
 ### Art. 1 {-}
 
@@ -114,7 +114,7 @@ Aliado do que diz o Art. 1 do presente Regimento Interno, os condôminos deverã
 
 > **Parágrafo Único**. As advertências serão formalizadas tendo como base o presente Regimento Interno e/ou a Escritura Particular de Convenção do Condomínio, bem como poderá levar em consideração o Código Civil Brasileiro.
 
-## **Multas** {-}
+## Multas {-}
 
 ### Art. 3 {-}
 
@@ -136,7 +136,7 @@ A(s) multa(s) será(ão) encaminhada(s) para protesto após 30 (trinta) dias do 
   
   + § 2º Se por ventura o condômino resgatar o título encaminhado para cartório antes do mesmo ser protestado, os juros e correções serão cobrados na taxa de condomínio do mês subsequente. 
 
-## **Taxa de Condomínio** {-}
+## Taxa de Condomínio {-}
 
 **Atualmente**, o valor da taxa de condomínio é **R\$ 360,00**.
 
@@ -161,7 +161,7 @@ As taxas de condomínio serão geradas e enviadas pelo síndico e/ou administrad
   + § 8º Os boletos também poderão ser enviados eletronicamente para o e-mail do proprietário do imóvel. Sendo assim, é de obrigação do proprietário do imóvel manter o síndico e a administradora sempre atualizados com informações de e-mail(s), telefone(s) e endereço de residência, caso o proprietário não resida no condomínio.
   
 
-## **Segurança** {-}
+## Segurança {-}
 
 ### Art. 6 {-}
   
@@ -193,7 +193,7 @@ Para realização de mudanças – **saída** e **entrada** – o síndico ou a 
   
   + § 3º Os horários para realização de mudanças são de segunda à sábado das 08h:00 (oito horas) às 17h:30 (dezessete horas e trinta minutos), sendo que no período das 12h:00 (doze horas) às 14h:00 (quatorze horas), não será permitido o uso de ferramentas (**em geral**) que produzam ruídos, cabendo aos responsáveis (inquilino e proprietário) o máximo empenho, a fim de evitar transtornos, tais como sujeiras e danos nas áreas comuns.
   
-## **Elevador** {-}
+## Elevador {-}
 
 ### Art. 10 {-}
 
@@ -221,7 +221,7 @@ Não será permitido fumar no interior do elevador.
 
 Em caso de danos provocados no elevador, o condômino arcará com os custos de sua reparação (serviços e peças). Além disso, o serviço deverá ser feito com a empresa contratada pelo condomínio para manutenção do equipamento.
 
-## **Área de Lazer** {-}
+## Área de Lazer {-}
 
 
 ### Art. 13 {-}
@@ -268,7 +268,7 @@ Apenas será permitido o uso da piscina por visitante(s) desde que este(s) estej
 
 É proibido o uso de sons/músicas na área de lazer de maneira que venha causar incômodo aos moradores do condomínio. O condômino que esteja causando o problema será informado por algum membro do corpo administrativo do condomínio ou zelador. O condômino deverá estar disposto a encontrar uma solução para o problema e **atender as ordens da administração do condomínio**. 
 
-## **Lixo** {-}
+## Lixo {-}
 
 ### Art. 17 {-}
 
@@ -306,7 +306,7 @@ Os condôminos poderão depositar o lixo na "casa do lixo" e/ou coletor a qualqu
 
 <!--   f) Se por qualquer eventualidade, ao transportar lixo para a área descarte, ocorra vazamento dos sacos, vindo assim a sujar a área comum, fica responsável pela **limpeza imediata** o apartamento que manuseou o lixo. -->
 
-## **Garagens** {-}
+## Garagens {-}
 
 ### Art. 18 {-}
 
@@ -342,7 +342,7 @@ Os condôminos não poderão oferecer perigo ao manobrar seus veículos nas áre
    
    e) Utilizar a garagem de outro proprietário sem o seu consentimento e aviso ao zelador.
    
-## **Demais Proibições e Regras** {-}
+## Demais Proibições e Regras {-}
 
 ### Art. 21 {-}
 
@@ -509,7 +509,7 @@ Em caso de imóvel alugado ou cedido, é de responsabilidade do proprietário do
 <!-- -   § 4º As medidas terão uma data de validade que será informada no e-mail de notificação do plano. -->
 
 
-# **Contatos de prestadores de serviços** {-}
+# Contatos de prestadores de serviços {-}
 
 Prezados condôminos, abaixo segue alguns contatos de prestadores de serviços que podem vir a ser úteis para vocês. Vocês poderão pesquisar usando palavras chaves de forma a facilitar a busca. 
 
