@@ -12,3 +12,17 @@
 .rmdobservation {
   background-image: url("images/icone_observacao.png");
 }
+
+@media (min-width: 600px) {
+  .book.with-summary .book-header.fixed {
+    left: 300px;
+  }
+}
+@media (max-width: 1240px) {
+  .book .book-body.fixed {
+    top: 50px;
+  }
+  .book .book-body.fixed .body-inner {
+    top: auto;
+  }
+}

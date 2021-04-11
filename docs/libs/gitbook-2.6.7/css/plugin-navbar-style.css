@@ -2,17 +2,3 @@ p { text-align: justify; }.book .book-summary ul.summary li a:hover,
                         .book .book-summary ul.summary li.active > a
                        { color: #000000; background-color: #FDAB1999; } .book .book-summary ul.summary li a:hover
                        { background-color: #aaaaaa; }
-                       
-@media (min-width: 600px) {
-  .book.with-summary .book-header.fixed {
-    left: 300px;
-  }
-}
-@media (max-width: 1240px) {
-  .book .book-body.fixed {
-    top: 50px;
-  }
-  .book .book-body.fixed .body-inner {
-    top: auto;
-  }
-}
