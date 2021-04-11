@@ -26,3 +26,18 @@
     top: auto;
   }
 }
+
+@media (max-width: 600px) {
+  .book.with-summary .book-header.fixed {
+    left: calc(100% - 60px);
+    min-width: 300px;
+  }
+  .book.with-summary .book-body {
+    transform: none;
+    left: calc(100% - 60px);
+    min-width: 300px;
+  }
+  .book .book-body.fixed {
+    top: 0;
+  }
+}
