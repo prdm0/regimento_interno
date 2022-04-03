@@ -2,7 +2,7 @@
 knit: "bookdown::render_book"
 title: "REGIMENTO INTERNO DO RESIDENCIAL KADOSHI"
 subtitle: "Normas do Regimento Interno"
-author: "**Síndico(a)**: Amanda Lira de Araujo Brito <br/> **E-mail**: <llira.amanda@gmail.com> </br></br> **Website desenvolvido por**: [Pedro Rafael D. Marinho](https://github.com/prdm0)."
+author: "**Síndico(a)**: Fábio Araújo Vanderlei <br/> **E-mail**: <fabio.a.vanderlei@gmail.com> </br></br> **Website desenvolvido por**: [Pedro Rafael D. Marinho](https://github.com/prdm0)."
 url: "https://github.com/prdm0/regimento_interno/"
 site: bookdown::bookdown_site
 graphics: yes
@@ -75,7 +75,7 @@ A administração do **Residencial Kadoshi** é composta por:
 
 ### Síndico(a) e subsíndico {-}
 
-> **Síndico(a)**: Amanda Lira de Araujo Brito, Apto. 304
+> **Síndico(a)**: Fábio Araújo Vanderlei, Apto. 402
 
 > **Subsíndico**: Não há
 
